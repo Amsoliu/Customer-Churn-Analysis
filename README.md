@@ -10,7 +10,6 @@
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
 
 ### Overview
 
@@ -27,7 +26,6 @@ The primary dataset used for the analysis....
 ### Tools
 
 - Excel : For Data cleaning and Analysis.
-  - [Download Excel](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - PowerBI : For Data Analysis, Visulization and Reporting. [Download PowerBI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ### Data Cleaning/Preparation
@@ -72,6 +70,5 @@ EDA involved exploring Customers Churn Data to answere the following key questio
 
 To reduce churn, it is recommended that the company focus on early engagement strategies, particularly for customers with shorter tenures, offering personalized incentives such as discounts or exclusive services within the first few months. Additionally, revisiting pricing models or offering value-added services for higher-paying customers could help address dissatisfaction linked to cost. Promoting longer-term contracts through loyalty rewards and simplifying payment options, especially by encouraging more convenient methods like credit card or bank transfers, may improve retention. Lastly, enhancing the quality and reliability of fiber optic services could address the high churn rates associated with this service.
 
-### Limitations
 
 [🔝](#customer-churn-analysis)
