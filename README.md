@@ -16,6 +16,10 @@
 
 This is Customer Churn Dashboard that visualizes and analyzes churn rates, demographics, and other key factors. It helps stakeholders track churn risks, identify at-risk customers, and make data-driven decisions to improve retention through insights into various metrics.
 
+![customer churn pg 1](https://github.com/user-attachments/assets/f93609f3-db29-496b-a5bd-869d061c4802)
+
+![customer churn pg 2](https://github.com/user-attachments/assets/d1e89458-175d-42db-89c8-9a8b1d32a156)
+
 ### Data Source
 
 The primary dataset used for the analysis....
