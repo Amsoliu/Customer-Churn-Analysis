@@ -31,29 +31,29 @@ The primary dataset used for the analysis....
 ### Data Cleaning/Preparation
 
 In preparing and Cleaning the Dataset, the following steps were performed:
-1. jsdjkdfjksd
-2. sdgdfhfjghk dght
-3. ffhg dfzrydf fgjjj
+1. Removing Duplicates
+2. Data Type Conversion
+3. Creating New Columns
 
 ### Exploratory Data Analysis
 
 EDA involved exploring Customers Churn Data to answere the following key questions;
 
-- What is the overall churn rate of customers?
-- Which gender has the higher churn rate?
-- How long do customers stay before churning?
-- What are the monthly and annual charges of customers?
-- What is the most common contract type among customers, and how does it relate to churn?
-- How do customers pay for their services, and does this affect churn rates?
-- Which internet services are customers using, and what is the churn rate by service type?
-- What additional services do customers subscribe to, and how does this relate to churn?
+- Churn Rate: The percentage of customers who have stopped using the service.
+- Demographics: Characteristics such as gender, age, partner, and dependent status.
+- Subscription Details: Contract length, payment method, and billing preferences.
+- Service Usage: Types of services customers are using, including internet type, tech support, streaming, and phone services.
+- Revenue Analysis: Monthly and annual charges associated with different customer segments.
 
 ### Data Analysis
 
-'''powerBI DAX
+The analysis focused on understanding various aspects of customer data:
 
-
-'''
+- Churn Rate: The percentage of customers who have stopped using the service.
+- Demographics: Characteristics such as gender, age, partner, and dependent status.
+- Subscription Details: Contract length, payment method, and billing preferences.
+- Service Usage: Types of services customers are using, including internet type, tech support, streaming, and phone services.
+- Revenue Analysis: Monthly and annual charges associated with different customer segments
 
 ### Results and Findings
 
