@@ -26,7 +26,7 @@ The primary dataset used for the analysis....
 ### Tools
 
 - Excel : For Data cleaning and Analysis.
-- PowerBI : For Data Analysis, Visulization and Reporting. [Download PowerBI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- PowerBI : For Data Analysis, Visulization and Reporting.
 
 ### Data Cleaning/Preparation
 
